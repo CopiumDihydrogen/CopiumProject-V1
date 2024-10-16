@@ -17,3 +17,4 @@ Compiling all the work im doing right now, probably gonna make a video series ab
   this plugin is the only bypass for Bookmarklets being blocked i was able to find. so not being able to make Interstellar links at school, sucks.
 
   other than that, everything should move smoothly after i get Interstellar up and running.
+Edgentweaks is the JS ill be using to [mess] around with Engenuity, it can be found in the source code under Edgentweaks.txt and in Releases under V1.0.0
